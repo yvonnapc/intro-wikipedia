@@ -1,4 +1,9 @@
-pre {
+.color-red {
   color: red;
-  width: 300px;
+}
+
+.border {
+  border: 2px;
+  color: green;
+  border-style: solid;
 }
